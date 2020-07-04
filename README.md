@@ -8,44 +8,44 @@ Nous codons le projet en langage Java.
 
 * Logo du Covid-19:
 
-<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Logo%20du%20Covid19.png" width="600">
+<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Logo%20du%20Covid19.png" width="300">
 
 * Page d'acceuil:
 
-<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Accueil.PNG" width="600">
+<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Accueil.PNG" width="300">
 
 * Conseil 1:
 
-<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Conseil1.PNG" width="600">
+<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Conseil1.PNG" width="300">
 
 * Conseil 2:
 
-<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Conseil2.PNG" width="600">
+<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Conseil2.PNG" width="300">
 
 * Conseil 3:
 
-<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Conseil3.PNG" width="600">
+<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Conseil3.PNG" width="300">
 
 * Conseil 4:
 
-<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Conseil4.PNG" width="600">
+<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Conseil4.PNG" width="300">
 
 * Conseil 5:
 
-<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Conseil5.PNG" width="600">
+<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Conseil5.PNG" width="300">
 
 * Conseil 6:
 
-<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Conseil6.PNG" width="600">
+<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Conseil6.PNG" width="300">
 
 * Liste des pays:
 
-<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Liste%20de%20pays.PNG" width="600">
+<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Liste%20de%20pays.PNG" width="300">
 
 * Exemple d'un recherche d'un pays :
 
-<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Exemple%20d'un%20pays.PNG" width="600">
+<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Exemple%20d'un%20pays.PNG" width="300">
 
 * Informations sur la pays:
 
-<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Informations%20sur%20la%20pays.PNG" width="600">
+<img src="https://github.com/arij-ghazouani123/Covid19-Android/blob/master/capture-covid19-android/Informations%20sur%20la%20pays.PNG" width="300">
